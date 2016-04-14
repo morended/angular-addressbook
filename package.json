@@ -1,0 +1,24 @@
+{
+  "name": "angular-addressbook",
+  "version": "1.0.0",
+  "description": "Address book using angularjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mounika1837/angular-addressbook.git"
+  },
+  "author": "Mounika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mounika1837/angular-addressbook/issues"
+  },
+  "homepage": "https://github.com/mounika1837/angular-addressbook#readme",
+  "dependencies": {
+    "angular": "^1.5.3",
+    "jasmine": "^2.4.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
